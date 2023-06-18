@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     var = a == 7
     return var
-print(main(1))
+print(main(7))
