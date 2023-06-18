@@ -10,4 +10,4 @@ def main(a,b):
     # Write your code here
     equal = a == b
     return equal
-print(main(1, 1))
+print(main(3, 1))
