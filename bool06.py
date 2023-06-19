@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     var_even = a % 2 == 0
     return var_even
-print(main(8))
+print(main(5))
