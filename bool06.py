@@ -7,4 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    var_even = a % 2 == 0
+    return var_even
+print(main(8))
