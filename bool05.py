@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     var_odd = a % 2 == 1
     return var_odd
-print(main(8)) 
+print(main(5)) 
