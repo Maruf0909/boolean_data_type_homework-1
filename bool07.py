@@ -11,4 +11,4 @@ def main(a,b):
     not_equal = a != b
 
     return not_equal
-print(main(3, 1))
+print(main(5, 5))
