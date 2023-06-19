@@ -7,4 +7,8 @@ def main(b):
         bool
     """
     # Write your code here
-    return 
+    
+    var = b > 0
+    
+    return var
+print(main(8))
