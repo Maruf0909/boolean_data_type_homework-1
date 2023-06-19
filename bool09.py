@@ -7,4 +7,7 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    num_natural = a > 0
+
+    return num_natural
+print(main(3))
