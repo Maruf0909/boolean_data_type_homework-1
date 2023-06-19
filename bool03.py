@@ -11,4 +11,4 @@ def main(b):
     var = b > 0
     
     return var
-print(main(8))
+print(main(-3))
