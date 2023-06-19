@@ -7,4 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    var_odd = a % 2 == 1
+    return var_odd
+print(main(8)) 
