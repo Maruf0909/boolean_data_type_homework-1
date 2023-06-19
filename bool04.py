@@ -10,4 +10,4 @@ def main(a):
     var = a<0
 
     return var
-print(main(-3)) 
+print(main(8)) 
