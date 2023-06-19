@@ -10,4 +10,4 @@ def main(a):
     from math import sqrt
     perfect = sqrt(a)%2 == 1
     return perfect
-print(main(15))
+print(main(121))
