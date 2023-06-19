@@ -8,4 +8,7 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
+    not_equal = a != b
+
+    return not_equal
+print(main(3, 1))
