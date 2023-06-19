@@ -7,4 +7,7 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    from math import sqrt
+    perfect = sqrt(a)%2 == 1
+    return perfect
+print(main(9))
