@@ -10,4 +10,4 @@ def main(a):
     num_natural = a > 0
 
     return num_natural
-print(main(3))
+print(main(-3))
