@@ -8,7 +8,5 @@ def main(b):
     """
     # Write your code here
     
-    var = b > 0
-    
-    return var
-print(main(-3))
+    return b>0
+print(main(8))
