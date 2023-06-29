@@ -7,8 +7,7 @@ def main(a,b):
     Returns:
         bool
     """
-    # Write your code here
-    not_equal = a != b
+    # Write your code her
 
-    return not_equal
-print(main(5, 5))
+    return a!=b
+print(main(3, 1))
