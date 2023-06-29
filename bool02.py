@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    var = a == 7
-    return var
+
+    return a==7
 print(main(7))
